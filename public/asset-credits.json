@@ -1,0 +1,254 @@
+[
+  {
+    "path": "assets/textures/2k_earth_clouds.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_earth_clouds.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_earth_clouds.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_earth_clouds.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_earth_daymap.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_earth_daymap.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_earth_daymap.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_earth_daymap.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_earth_nightmap.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_earth_nightmap.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_earth_nightmap.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_earth_nightmap.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_jupiter.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_jupiter.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_jupiter.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_jupiter.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_mars.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_mars.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_mars.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_mars.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_mercury.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_mercury.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_mercury.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_mercury.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_moon.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_moon.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_moon.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_moon.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_neptune.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_neptune.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_neptune.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_neptune.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_saturn.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_saturn.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_saturn.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_saturn.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_saturn_ring_alpha.png",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_saturn_ring_alpha.png",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_saturn_ring_alpha.png",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_saturn_ring_alpha.png",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_stars_milky_way.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_stars_milky_way.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_sun.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_sun.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_sun.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_sun.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_uranus.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_uranus.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_uranus.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_uranus.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  },
+  {
+    "path": "assets/textures/2k_venus_atmosphere.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_venus_atmosphere.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "None."
+  },
+  {
+    "path": "assets/base/2k_venus_atmosphere.jpg",
+    "sourceUrl": "https://www.solarsystemscope.com/textures/download/2k_venus_atmosphere.jpg",
+    "author": "Solar System Scope / INOVE",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "accessedAt": "2026-10-13",
+    "modifications": "Resampled to 512 pixels wide with macOS sips."
+  }
+]

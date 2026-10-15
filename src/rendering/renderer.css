@@ -1,0 +1,12 @@
+.solar-renderer { position: absolute; inset: 0; }
+.celestial-label-layer { position: absolute; inset: 0; overflow: hidden; pointer-events: none; }
+.celestial-label { position: absolute; left: 0; top: 0; pointer-events: auto; padding: 5px 9px; border-radius: 4px; font-size: 11px; letter-spacing: 1px; color: #9facbf; background: #04091170; white-space: nowrap; text-shadow: 0 1px 4px #000; }
+.celestial-label::before { content: ''; display: inline-block; width: 3px; height: 3px; margin-right: 7px; border-radius: 50%; background: #8fabc5; vertical-align: middle; }
+.celestial-label.selected { color: #d5deed; }
+.celestial-label.selected::before { background: #e2bd8c; }
+.celestial-label:hover { background: #182536cf; }
+.texture-retry-panel { position: absolute; z-index: 6; left: 50%; bottom: 225px; transform: translateX(-50%); display: flex; gap: 14px; align-items: center; max-width: 70vw; border: 1px solid #c7995540; border-radius: 8px; padding: 10px 15px; color: #dabb8f; background: #14110ef0; font-size: 11px; }
+.texture-retry-panel button, .renderer-failure button { flex-shrink: 0; border: 1px solid #d1a06366; border-radius: 5px; color: #edc695; padding: 8px 12px; background: #cfa06819; }
+.renderer-failure { position: absolute; z-index: 7; top: 38%; left: 50%; transform: translateX(-50%); width: min(540px, 80vw); padding: 25px; border: 1px solid #8e99ac55; border-radius: 12px; background: #080e18f5; text-align: center; color: #c8d2e2; }
+.renderer-failure h2 { font-size: 18px; font-weight: 500; }
+.renderer-failure p { color: #93a1b5; font-size: 12px; line-height: 1.8; overflow-wrap: anywhere; }

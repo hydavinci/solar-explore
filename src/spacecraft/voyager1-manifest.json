@@ -1,0 +1,82 @@
+{
+  "id": "voyager-1-jupiter-1979",
+  "spacecraftId": "voyager-1",
+  "referenceBodyId": "jupiter",
+  "url": "/trajectories/voyager-1-jupiter-1979.json",
+  "sha256": "d5b60e06752696195aa49103f99a992fdc8905a4ae11570c8b864d1b455c8035",
+  "bytes": 79744,
+  "coverage": [
+    [
+      287107200001,
+      287711999997
+    ],
+    [
+      287712000000,
+      288230399997
+    ],
+    [
+      288230400000,
+      289267199997
+    ],
+    [
+      289267200000,
+      289548419257
+    ],
+    [
+      289548419260,
+      291967464469
+    ],
+    [
+      291967464472,
+      292463999997
+    ]
+  ],
+  "presetUtc": "1979-03-05T12:00:00Z",
+  "classification": "historical-navigation",
+  "datasetId": "VG1-J-SPICE-6-SPK-V2.0",
+  "sourceUrl": "https://pds.nasa.gov/data/vg1-j-spice-6-spk-v2.0/vg_1501/geometry/pc/vg1_jup.spk",
+  "catalogUrl": "https://pds.nasa.gov/data/vg1-j-spice-6-spk-v2.0/vg_1501/catalog/spkds.cat",
+  "recordUrl": "https://data.nasa.gov/dataset/vg1-jupiter-spice-spk-kernel-v2-0",
+  "sourceHashes": {
+    "vg1_jup.spk": "bacbee81efee76be807584a3a0a53cc6bd4213ac33e2c31180a75a02f93f98d0",
+    "leapsecs.ker": "eb4ff23ab76bc987c36c200849fe978c8a1bc2ecfb389b751a6c27b639957ecb"
+  },
+  "sourceReleaseDate": "1998-05-01",
+  "acquiredAt": "2026-10-15",
+  "sourceCoverageUtc": [
+    "1979-02-05T23:59:59.999086Z",
+    "1979-04-08T23:59:59.998349Z"
+  ],
+  "boundaryGuard": "Trim each source interval inward by 1 ms, then round inward to UTC milliseconds; these are import guard gaps, not missing original data.",
+  "sourceCaveat": "Interim historical navigation archive. Reconstruction/prediction is not identified per segment; absolute orbit accuracy is not supplied.",
+  "reuse": "Numerical state-query output only. Source catalog supplies data for trajectory generation and coordinate transformations. NASA Open Data says License not specified. Original kernels and archive prose are not shipped.",
+  "timeConversion": "Paired LSK via CSPICE str2et/et2utc; geometric ECLIPJ2000 relative to SUN; ET velocity derivatives converted to UTC seconds using a symmetric 20-second time derivative. No leap-second event lies in this published interval.",
+  "tools": {
+    "spiceypy": "8.3.0",
+    "cspice": "CSPICE_N0067"
+  },
+  "validation": {
+    "maximumPositionError": {
+      "spacecraftKm": 0.2368739891545833,
+      "jupiterKm": 0.019637874022753545
+    },
+    "worstUtc": {
+      "spacecraftKm": "1979-03-04T23:00:00.000000Z",
+      "jupiterKm": "1979-03-31T07:11:59.260000Z"
+    },
+    "checkedTimes": 90847,
+    "gridStepSeconds": 60,
+    "independentFractions": [
+      0.13,
+      0.37,
+      0.61,
+      0.89
+    ],
+    "minimumCheckedJupiterDistance": {
+      "distanceKm": 348891.9523912737,
+      "utcMs": 289483486167.68
+    },
+    "scope": "Measured reproduction of this source at checked times, not absolute ephemeris accuracy."
+  },
+  "sampleCount": 396
+}
